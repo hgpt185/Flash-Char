@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "327453807956",
+    "project_id": "flash-chat-39d90",
+    "storage_bucket": "flash-chat-39d90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327453807956:android:23bc966f260e5af978e4c1",
+        "android_client_info": {
+          "package_name": "co.hemesh.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327453807956-b8at3scrarhile1u1s7ti59gvtg5v38a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANH4k_BLujtLauQSRePtIs3JzCtMfnhWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327453807956-b8at3scrarhile1u1s7ti59gvtg5v38a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
